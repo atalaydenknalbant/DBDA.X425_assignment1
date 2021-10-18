@@ -5,5 +5,10 @@
   ### [XOR Table](https://github.com/atalaydenknalbant/DBDA.X425_assignments/blob/main/assignment2.ipynb)
 ## Assignment 3  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pnxw_M33et8BD2jIizF5vodEDsc0_EZX?usp=sharing)
   ### [Neural Network Model using Fashion MNIST dataset](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment3.ipynb)
-
+## Assignment 4  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment4.ipynb)
+  ### [Using callbacks and tensorboard](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment4.ipynb)  
+  
+  
+  
+  
 

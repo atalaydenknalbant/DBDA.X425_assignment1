@@ -9,7 +9,7 @@
   ### [Using callbacks and tensorboard](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment4.ipynb)  
 ## Assignment 5  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kyxCKzlY_mWBmdiMfzdQisDEtsl1uwDx?usp=sharing)
   ### [Convolutional Neural Network Model with regularizers](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment5.ipynb)    
-  
+## Assignment 6  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VlDOkWh3N-xEHw6wgOpfyAv2kI0gP7eY?usp=sharing)
+  ### [Convolutional Neural Network Model with regularizers](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment6.ipynb)      
 
   
-

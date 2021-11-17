@@ -11,5 +11,6 @@
   ### [Convolutional Neural Network Model with regularizers](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment5.ipynb)    
 ## Assignment 6  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VlDOkWh3N-xEHw6wgOpfyAv2kI0gP7eY?usp=sharing)
   ### [LSTM Models](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment6.ipynb)      
-
+## Assignment 7  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NNPRKMyk2az88NszAoWzGJtFJ0AtY2h-?usp=sharing)
+  ### [Word2Vec NLP](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/AndroidAppReviewsWord2Vec.ipynb)  
   

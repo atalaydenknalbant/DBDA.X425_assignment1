@@ -13,5 +13,5 @@
   ### [LSTM Models](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/assignment6.ipynb)      
 ## Assignment 7  [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NNPRKMyk2az88NszAoWzGJtFJ0AtY2h-?usp=sharing)
   ### [Word2Vec NLP](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/AndroidAppReviewsWord2Vec.ipynb)  
-## Assignment 8 
+## Assignment 8 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LNy3j_oJHOA6VvmUKnn4fumxbXIpcc8x?usp=sharing)
   ### [BERT_IMDB_Sentiment_Analysis](https://github.com/atalaydenknalbant/DBDA.X425_Assignments/blob/main/BERT_IMDB__sentiment_analysis2.ipynb)    
